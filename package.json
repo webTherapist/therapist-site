@@ -1,0 +1,45 @@
+{
+  "name": "therapist-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "gray-matter": "^4.0.3",
+<<<<<<< HEAD
+    "next": "14.2.5",
+=======
+    "next": "^14.2.33",
+>>>>>>> 0cda54dc (first commit)
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+<<<<<<< HEAD
+=======
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+>>>>>>> 0cda54dc (first commit)
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.6.2"
+  },
+  "engines": {
+    "node": ">=18.17.0 <=22.x"
+  }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 0cda54dc (first commit)
